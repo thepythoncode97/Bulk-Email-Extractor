@@ -1,30 +1,34 @@
-# Bulk Email Extractor
+# Bulk Email Generator
 
-![Bulk Email Extractor](https://raw.githubusercontent.com/alexrony21/Bulk-Email-Extractor/refs/heads/main/Bulk_Email_Extractor.png)
+![Bulk Email Generator](https://raw.githubusercontent.com/alexrony21/Bulk-Email-Generator/refs/heads/main/smart_email_grabber_main.png)
+![Bulk Email Generator](https://raw.githubusercontent.com/alexrony21/Bulk-Email-Generator/refs/heads/main/smart_email_grabber_result.png)
 
-## Features
+## ✨ Features
 
-1. **Extract Emails from Any Domain** : Seamlessly grab emails from any website or domain with high precision.
-2. **High Accuracy** : Delivers reliable and accurate email extraction results.
-3. **Unlimited Extraction** : No restrictions on the number of emails you can extract.
-4. **User-Friendly GUI Application** : Intuitive and easy-to-use interface designed for all skill levels.
-5. **Fast and Efficient** : Quickly processes and extracts large volumes of emails.
-
----
+- 🔒 **Dark UI Design**
+- 🧠 **Smart Gender Prediction**
+- 🧑‍🤝‍🧑 **Realistic Name Generation** 
+- 💻 **Dynamic Table View**
+- 🚀 **Fast Bulk Extraction**
+- 🧾 **Flexible Input**
+- 📁 **Smart File Saving** — One-click export to:
+  - `.xlsx` file (Excel format)
+  - `.txt` file with full details
+  - `.txt` file with email-only list
+- 📊 **Progress Indicator**
+- 🛑 **Interrupt Button**
+- 📐 **Auto Column Resize**
+- ✅ **Input Validation**
 
 ## 🛒 How to Purchase
 
-To purchase this tool, please contact me via Telegram:  
-[@thepythoncode97](https://t.me/thepythoncode97)
+To purchase this tool, please contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
 
 ---
 
 ## ⚠️ Disclaimer
 
-This tool is intended for marketers and businesses to collect emails.  
-**Any illegal or unethical use of this software is prohibited.**  
-The author assumes no responsibility for misuse.
+This tool is intended for marketers and businesses to collect emails. **Any illegal or unethical use of this software is prohibited.** The author assumes no responsibility for misuse.
 
 ---
-
-Thank you.
+Thank you
